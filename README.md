@@ -28,8 +28,8 @@ Yes! Moving is important. How many steps have you taken today?
 You can use **WASD** or the **arrow keys** to move around the planet.
 
 <p align="center">
-  <img src="image/player.png" width="250">
-  <img src="image/npc.png" width="250">
+  <img src="image/player.png" width="450">
+  <img src="image/npc.png" width="450">
 </p>
 
 ### 2. Fruit Collection
